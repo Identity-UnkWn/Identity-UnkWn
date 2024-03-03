@@ -43,5 +43,6 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=identity-unkwn&show_icons=true&locale=en&layout=compact" alt="identity-unkwn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=identity-unkwn&show_icons=true&locale=en" alt="identity-unkwn" /></p>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qrmycfrg4jrdzfbannw5wzxu6q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+https://spotify-github-profile.vercel.app/api/view?uid=31qrmycfrg4jrdzfbannw5wzxu6q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false
 
