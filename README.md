@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=identity-unkwn&show_icons=true&locale=en" alt="identity-unkwn" /></p>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31qrmycfrg4jrdzfbannw5wzxu6q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Currently Playing" />
+<center><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qrmycfrg4jrdzfbannw5wzxu6q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="400px" alt="Spotify Currently Playing" /></center>
 
