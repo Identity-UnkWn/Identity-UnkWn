@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dino-dark.gif" />
     <source media="(prefers-color-scheme: light)" srcset="./dino.gif" />
-    <img alt="https://mrousavy.com" src="./dino.gif" />
+    <img alt="https://mrousavy.com" src="./dino-dark.gif" />
   </picture>
 </a>
 
