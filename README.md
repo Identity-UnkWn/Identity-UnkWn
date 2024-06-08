@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://chromedino.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dino-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="./dino.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./dino-dark.gif" />
     <img alt="https://mrousavy.com" src="./dino-dark.gif" />
   </picture>
 </a>
