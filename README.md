@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <a href="https://chromedino.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
-    <img alt="https://mrousavy.com" src="./img/dino.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="./dino-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./dino.gif" />
+    <img alt="https://mrousavy.com" src="./dino.gif" />
   </picture>
 </a>
 
