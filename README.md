@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm sanjay kj</h1>
 <h3 align="center">passionate developer from India</h3>
 
-<img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg" alt="pic">
+<a href="https://chromedino.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
+    <img alt="https://mrousavy.com" src="./img/dino.gif" />
+  </picture>
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=identity-unkwn&label=Profile%20views&color=0e75b6&style=flat" alt="identity-unkwn" /> </p>
 
